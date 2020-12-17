@@ -1,0 +1,14 @@
+<<Maintainance application>>
+
+Team:
+- Cafaro Chiara        0622701443
+- Carbone Alessia      0622701487
+- Cavallaro Daniela    0612703975
+- De Vivo Laura        0622701475
+
+Alcune informazioni:
+- Il link al backlog è all'interno della presentazione, nella prima slide.
+- I file .sql dei database utilizzati per i test e del database per l'applicazione sono all'interno del package
+  "databases" all'interno dell'archivio .rar contenente il codice. Alcuni dati sono stati inseriti già all'interno
+  del database ma TUTTI i dati inseriti dagli utenti dall'applicazione sono persistenti e salvati all'interno del
+  database.
