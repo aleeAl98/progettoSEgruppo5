@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"enumeratives"},{"l":"interfaccia"},{"l":"interfaccia.amministratore"},{"l":"interfaccia.maintainer"},{"l":"interfaccia.planner"},{"l":"progettosegruppo5"}];updateSearchResults();
